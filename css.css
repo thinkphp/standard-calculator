@@ -1,0 +1,39 @@
+           h2 {color: lightgreen;}
+           #output {
+                background-color: lightgray;
+                border-style: solid;
+                border-color: #00FFFF;
+                width: 49.7%;
+                height: 48px;
+                font-size: 20px;
+            }
+
+            #btns {
+                width: 50.7%;
+            }
+
+            #btn0, #btn1, #btn2, #btn3, #btn4, #btn5 , #btn6, #btn7 , #btn8, #btn9 { 
+                background-color: lightgreen;
+                color: brown;
+            }
+
+            #btnClr, #btnEql {
+                background-color: #00BFFF;
+                color: white;
+            }
+
+            #btnSum, #btnSub, #btnMul, #btnDiv {
+                background-color: black;
+                color: red;
+            }
+
+            button {
+                width: 32%;
+                height: 36px;
+                font-size: 18px;
+            }
+ 
+            #btnSqrt , #btnSqr, #btnFact {
+                background-color: yellow;
+                color: black;
+            }
